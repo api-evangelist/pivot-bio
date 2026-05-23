@@ -1,0 +1,91 @@
+aid: pivot-bio
+name: Pivot Bio
+description: >-
+  Pivot Bio is an agricultural biotechnology company headquartered in Berkeley,
+  California with additional operations in St. Louis, Missouri. The company
+  engineers naturally occurring soil microbes to fix atmospheric nitrogen on
+  crop root systems, providing a biological alternative to synthetic nitrogen
+  fertilizer that reduces nitrous-oxide emissions, nitrate runoff, and
+  exposure to volatile fertilizer prices. Pivot Bio's product line includes
+  PROVEN 40 and PROVEN G3 (corn and corn silage), RETURN (wheat and small
+  grains), CERT-N (cotton), and RETAIN (sorghum). The company also operates
+  N-OVATOR, an outcomes-based program that pays farmers for verified
+  emissions reductions; the program reports having paid out more than $6M
+  to growers since 2022 and contributing to over 1,050,000 metric tons of
+  CO2e avoided. Pivot Bio was founded by Karsten Temme (CEO) and Alvin Tamsir.
+  Investors include Breakthrough Energy Ventures, Temasek, DCVC, Generation
+  Investment Management, Pavilion Capital, G2 Venture Partners, Bond, and
+  others. Pivot Bio's product is the microbe, not an API; the company operates
+  a farmer-facing Salesforce-based portal but does not publish a public
+  developer API or SDK.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Agriculture
+  - AgTech
+  - Biotechnology
+  - Synthetic Biology
+  - Microbial Nitrogen
+  - Nitrogen Fixation
+  - Sustainable Agriculture
+  - Corn
+  - Wheat
+  - Sorghum
+  - Cotton
+  - Climate Tech
+  - Carbon Credits
+url: https://raw.githubusercontent.com/api-evangelist/pivot-bio/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.pivotbio.com
+  - type: Technology
+    url: https://www.pivotbio.com/our-technology
+  - type: Corn
+    url: https://www.pivotbio.com/corn
+  - type: Silage
+    url: https://www.pivotbio.com/silage
+  - type: Wheat
+    url: https://www.pivotbio.com/wheat
+  - type: Sorghum
+    url: https://www.pivotbio.com/sorghum
+  - type: Cotton
+    url: https://www.pivotbio.com/cotton
+  - type: FieldData
+    url: https://www.pivotbio.com/provenit
+  - type: UsingProduct
+    url: https://www.pivotbio.com/using-pivot-bio
+  - type: FAQ
+    url: https://www.pivotbio.com/faqs
+  - type: About
+    url: https://www.pivotbio.com/about-us
+  - type: News
+    url: https://www.pivotbio.com/in-the-news
+  - type: Blog
+    url: https://www.pivotbio.com/blog
+  - type: Careers
+    url: https://www.pivotbio.com/careers
+  - type: Portal
+    url: https://pivot-bio.my.site.com/pivotbioportal/s/
+  - type: Email
+    url: mailto:support@pivotbio.com
+  - type: Phone
+    url: tel:+18774511977
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pivot-bio
+  - type: Twitter
+    url: https://twitter.com/PivotBio
+  - type: YouTube
+    url: https://www.youtube.com/@PivotBio
+  - type: Facebook
+    url: https://www.facebook.com/PivotBio
+  - type: Instagram
+    url: https://www.instagram.com/pivotbio
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
