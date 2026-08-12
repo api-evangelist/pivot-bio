@@ -87,8 +87,6 @@ common:
     url: https://pivot-bio.my.site.com/pivotbioportal/s/
   - type: Email
     url: mailto:support@pivotbio.com
-  - type: Phone
-    url: tel:+18774511977
   - type: LinkedIn
     url: https://www.linkedin.com/company/pivot-bio
   - type: Twitter
